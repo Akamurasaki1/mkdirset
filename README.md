@@ -23,3 +23,4 @@ Dump the current directory structure:
 ```bash
 mkdirset dump > 〇〇.txt
 ```
+### 初期のディレクトリ構成やpackageの作り方についてOpenAIにたくさん助けを借りています。
