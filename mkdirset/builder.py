@@ -4,7 +4,7 @@ def create_from_file(filepath):
     with open(filepath, 'r') as f:
         lines = f.readlines()
 
-    root = None
+    root = '.'
     for line in lines:
         line = line.rstrip()
         if not line:
