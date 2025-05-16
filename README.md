@@ -15,6 +15,8 @@ Create folders from a structure file:
 ```bash
 mkdirset from 〇〇.txt
 ```
+別ファイルとして生成されてしまうので修正をお待ちください
+
 
 Dump the current directory structure:
 
