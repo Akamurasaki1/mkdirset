@@ -1,10 +1,3 @@
-[project]
-name = "mkdirset"
-version = "0.1.0"
-description = "Create and dump directory structures from indented text"
-authors = [{ name="Karen Naito", email="aka.akamu.akamurasaki0192@gmail.com" }]
-license = "MIT"
-dependencies = []
-
-[project.scripts]
-mkdirset = "mkdirset.cli:main"
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
